@@ -8,3 +8,4 @@ In build folder are final deploy project.
 
 In other folders are react files.
 
+Use master branch to see the code =)
